@@ -6,7 +6,11 @@ matplotlib
 seaborn
 keras
 tensorflow
+tensorflow-datasets
 ipykernel
 pydot
 protobuf==3.20.*
 openpyxl
+h5py
+kaggle
+opencv-python
